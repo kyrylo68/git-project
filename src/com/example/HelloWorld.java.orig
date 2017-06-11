@@ -2,8 +2,11 @@ package com.example;
 
 public class HelloWorld {
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		System.out.println("Hello world! changed11");
 		System.out.println("Hello world! changed121");
+=======
 		System.out.println("Hello world! changed10");
+>>>>>>> master
 	}
 }
